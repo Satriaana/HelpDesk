@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-Platform :
+Platform:
 
-Access Level <!--- leave this blank if you don't know the access level. We'll give you the best access level regarding the business justification ---> :
+Access Level<!-- leave this blank if you don't know the access level. We'll give you the best access level regarding the business justification -->:
 
-Business justification : 
+Business justification: 
 
-Do you have your team lead's approval? If yes, please mention your team lead :
+Do you have your team lead's approval? If yes, please mention your team lead:
 
-Any references :
+Any references:

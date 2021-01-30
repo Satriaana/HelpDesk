@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-Platform : 
+Platform: 
 
-Describe the issue :
+Describe the issue:

@@ -10,6 +10,7 @@ assignees: ''
 Platform: 
 
 Request type:
+<!--Select Request type after submitting-->
 - [ ] General Query.
 - [ ] I am a volunteer at Satriaana and I need someone to carry out my work.
 - [ ] I want to legally register something.

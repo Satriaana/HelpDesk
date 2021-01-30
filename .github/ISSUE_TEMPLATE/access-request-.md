@@ -1,6 +1,7 @@
 ---
 name: 'Access Request '
-about: Describe this issue template's purpose here.
+about: If you need any access regarding to anything related Satriaana, contact from
+  here.
 title: "[CB-HD-REQ] Access Request "
 labels: access request
 assignees: ''

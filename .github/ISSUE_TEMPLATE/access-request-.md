@@ -1,7 +1,6 @@
 ---
 name: 'Access Request '
-about: If you need any access regarding to anything related Satriaana, contact us
-  from here.
+about: If you need access to anything related to Satriaana, contact us here.
 title: "[CB-HD-ACCREQ] Access Request "
 labels: access request
 assignees: ''

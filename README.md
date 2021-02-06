@@ -1,11 +1,8 @@
 # HelpDesk
 
-* This is to seeking help from responsible persons in the Satriaana community. 
+* This is to seek help from anyone in the Satriaana community. 
 * You can easily submit any of your requests to Satriaana through the help desk. 
-* First, go to the Satriaana organization.
-* Then move on to the help desk repository. 
-* Go to issues in help desk repo.
-* You can access Satriaana Help Desk via https://helpdesk.satriaana.org as well.
+* You can access Satriaana Help Desk via https://helpdesk.satriaana.org
 * To create a new issue, click on the new issue button.
 * You can request help via three categories.
 * Then you can see three types of issues as follows: Access Request, General Request, Something is not working
